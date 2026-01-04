@@ -1,0 +1,16 @@
+/home/owl/ros2/ros2_assign_1/simple-hello-world-node-Kr1shnaS/install/ros2_hello_world/lib/ros2_hello_world/hello_node
+/home/owl/ros2/ros2_assign_1/simple-hello-world-node-Kr1shnaS/install/ros2_hello_world/share/ament_index/resource_index/package_run_dependencies/ros2_hello_world
+/home/owl/ros2/ros2_assign_1/simple-hello-world-node-Kr1shnaS/install/ros2_hello_world/share/ament_index/resource_index/parent_prefix_path/ros2_hello_world
+/home/owl/ros2/ros2_assign_1/simple-hello-world-node-Kr1shnaS/install/ros2_hello_world/share/ros2_hello_world/environment/ament_prefix_path.sh
+/home/owl/ros2/ros2_assign_1/simple-hello-world-node-Kr1shnaS/install/ros2_hello_world/share/ros2_hello_world/environment/ament_prefix_path.dsv
+/home/owl/ros2/ros2_assign_1/simple-hello-world-node-Kr1shnaS/install/ros2_hello_world/share/ros2_hello_world/environment/path.sh
+/home/owl/ros2/ros2_assign_1/simple-hello-world-node-Kr1shnaS/install/ros2_hello_world/share/ros2_hello_world/environment/path.dsv
+/home/owl/ros2/ros2_assign_1/simple-hello-world-node-Kr1shnaS/install/ros2_hello_world/share/ros2_hello_world/local_setup.bash
+/home/owl/ros2/ros2_assign_1/simple-hello-world-node-Kr1shnaS/install/ros2_hello_world/share/ros2_hello_world/local_setup.sh
+/home/owl/ros2/ros2_assign_1/simple-hello-world-node-Kr1shnaS/install/ros2_hello_world/share/ros2_hello_world/local_setup.zsh
+/home/owl/ros2/ros2_assign_1/simple-hello-world-node-Kr1shnaS/install/ros2_hello_world/share/ros2_hello_world/local_setup.dsv
+/home/owl/ros2/ros2_assign_1/simple-hello-world-node-Kr1shnaS/install/ros2_hello_world/share/ros2_hello_world/package.dsv
+/home/owl/ros2/ros2_assign_1/simple-hello-world-node-Kr1shnaS/install/ros2_hello_world/share/ament_index/resource_index/packages/ros2_hello_world
+/home/owl/ros2/ros2_assign_1/simple-hello-world-node-Kr1shnaS/install/ros2_hello_world/share/ros2_hello_world/cmake/ros2_hello_worldConfig.cmake
+/home/owl/ros2/ros2_assign_1/simple-hello-world-node-Kr1shnaS/install/ros2_hello_world/share/ros2_hello_world/cmake/ros2_hello_worldConfig-version.cmake
+/home/owl/ros2/ros2_assign_1/simple-hello-world-node-Kr1shnaS/install/ros2_hello_world/share/ros2_hello_world/package.xml
